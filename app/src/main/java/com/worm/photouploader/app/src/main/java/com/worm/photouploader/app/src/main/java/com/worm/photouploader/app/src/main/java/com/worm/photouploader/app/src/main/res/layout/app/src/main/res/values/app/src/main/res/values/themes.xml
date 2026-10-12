@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PhotoUploader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00AAAA</item>
+        <item name="colorPrimaryVariant">#007777</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#111111</item>
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+</resources>
